@@ -2,7 +2,7 @@
 
 ## 🌍 Business Context
 
-某北美 AI 教育出海产品的获客模式：**雇佣 200+ 北美校园大使**在 TikTok / Instagram / YouTube 拍短视频引流。这些视频由 **10 人内部 Coach 团队**审核，每周处理 **2000+ 条**。
+某北美 AI 教育出海产品的获客模式：**雇佣 600+ 北美校园大使**在 TikTok / Instagram / YouTube 拍短视频引流。这些视频由 **10 人内部 Coach 团队**审核，每周处理 **2000+ 条**。
 
 ## 🎯 The Concrete Problem
 
